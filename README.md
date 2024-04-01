@@ -1,4 +1,4 @@
-![postman](https://github.com/Hasitha-Chathurangapriya/Science-Fiction-Stories-WebApp/assets/165558899/981c8a6a-a839-44e2-8d19-b2fe392a26e7)# Science-Fiction-Stories-WebApp
+# Science-Fiction-Stories-WebApp
 Here, a platform has been created for readers who are interested in science fiction short stories. Through that they have the opportunity to read stories. Also, here the admin writer composes short stories and releases them in this space.
 
 # Framework
@@ -8,7 +8,7 @@ Here, a platform has been created for readers who are interested in science fict
 ![vsc](https://github.com/Hasitha-Chathurangapriya/Science-Fiction-Stories-WebApp/assets/165558899/43dfd4c9-7544-4daf-9709-f767ff92667c)
 
 # API Platform
-![postman](https://github.com/Hasitha-Chathurangapriya/Science-Fiction-Stories-WebApp/assets/165558899/76831534-6adf-47a5-94d6-39a684018fb7)
+![images](https://github.com/Hasitha-Chathurangapriya/Science-Fiction-Stories-WebApp/assets/165558899/8b3987c3-c20d-43fc-bacf-d5b9927c9404)
 
-
-
+# Library
+![mui-o](https://github.com/Hasitha-Chathurangapriya/Science-Fiction-Stories-WebApp/assets/165558899/d9851d63-874b-4129-b9b5-30c59f95ee0b)
