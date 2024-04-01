@@ -4,7 +4,7 @@ Here, a platform has been created for readers who are interested in science fict
 # Framework
 ![mern-stack](https://github.com/Hasitha-Chathurangapriya/Science-Fiction-Stories-WebApp/assets/165558899/3c5a65b5-2e04-43df-b356-c85774c27e8e)
 
-#IDE
+# IDE
 ![vsc](https://github.com/Hasitha-Chathurangapriya/Science-Fiction-Stories-WebApp/assets/165558899/43dfd4c9-7544-4daf-9709-f767ff92667c)
 
 # API Platform
