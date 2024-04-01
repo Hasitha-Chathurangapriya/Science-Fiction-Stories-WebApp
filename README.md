@@ -1,4 +1,4 @@
-![postman-api-platform-social-preview-9420276277ad8d4e67e53ee548409999](https://github.com/Hasitha-Chathurangapriya/Science-Fiction-Stories-WebApp/assets/165558899/6f1cecb0-7a5d-4732-b8a5-00fa9094677e)# Science-Fiction-Stories-WebApp
+# Science-Fiction-Stories-WebApp
 Here, a platform has been created for readers who are interested in science fiction short stories. Through that they have the opportunity to read stories. Also, here the admin writer composes short stories and releases them in this space.
 
 # Framework
